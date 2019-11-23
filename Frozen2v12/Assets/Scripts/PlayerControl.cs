@@ -7,6 +7,8 @@ public class PlayerControl : MonoBehaviour
 
     [Tooltip("How fast the player can move")]
     public float xVelocity;
+    [Tooltip("Applied force to player")]
+    public float addSpeed;
     [Tooltip("The applied jump velocity")]
     public float jumpVel;
     [Tooltip("The gravitational pull")]
@@ -16,7 +18,6 @@ public class PlayerControl : MonoBehaviour
 
     private float currentHang;
     private float yVel;
-    private float xVel;
     private bool canJump;
     private bool isJumping;
 
@@ -42,27 +43,26 @@ public class PlayerControl : MonoBehaviour
         GetMovement();
         ApplyHorizMovement();
         ApplyVertMovement();
-        MovePlayer();
     }
 
     private void ApplyHorizMovement()
     {
 
-        if (!isJumping)
+        Rigidbody2D rb2d = this.GetComponent<Rigidbody2D>();
+        if (CurrMoves.left)
         {
-            xVel = 0;
-            if (CurrMoves.right)
-            {
-                xVel = xVelocity;
-            }
-            if (CurrMoves.left)
-            {
-                xVel = -xVelocity;
-            }
-            if (CurrMoves.right & CurrMoves.left)
-            {
-                xVel = 0;
-            }
+            rb2d.AddForce(new Vector2(-addSpeed, 0));
+        }
+        if (CurrMoves.right)
+        {
+            rb2d.AddForce(new Vector2(addSpeed, 0));
+        }
+
+        if (Mathf.Abs(rb2d.velocity.x) > xVelocity)
+        {
+            //Returns 1 or -1
+            float dir = rb2d.velocity.x / Mathf.Abs(rb2d.velocity.x);
+            rb2d.velocity = dir * new Vector2(xVelocity, 0);
         }
 
     }
@@ -84,22 +84,15 @@ public class PlayerControl : MonoBehaviour
             float yChange = Mathf.Pow(Time.deltaTime * gravity, 2);
             if (Mathf.Abs(yVel) < 0.25 && currentHang > 0 && CurrMoves.jump)
             {
-               currentHang -= Time.deltaTime;
+                currentHang -= Time.deltaTime;
             }
             else
             {
-               yVel -= yChange;
+                yVel -= yChange;
             }
         }
-        
 
-    }
-
-
-
-    private void MovePlayer()
-    {
-        velocity = new Vector3(xVel, yVel, 0);
+        velocity = new Vector3(0, yVel, 0);
         this.transform.position += velocity * Time.deltaTime;
     }
 
