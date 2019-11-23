@@ -20,7 +20,7 @@ public class PlayerControl : MonoBehaviour
     private float yVel;
     private bool canJump;
     private bool isJumping;
-
+    private bool isTouchingGround;
     private struct moves
     {
         public bool left;
@@ -43,6 +43,8 @@ public class PlayerControl : MonoBehaviour
         GetMovement();
         ApplyHorizMovement();
         ApplyVertMovement();
+        //Debug.Log(yVel);
+        //Debug.Log(xVelocity);
     }
 
     private void ApplyHorizMovement()
@@ -91,12 +93,15 @@ public class PlayerControl : MonoBehaviour
                 yVel -= yChange;
             }
         }
-        else
+        else if (!isTouchingGround)
         {
-            yVel -= yChange;
+            if(Time.deltaTime <= 0.03)
+            {
+                yVel -= yChange;
+            }
         }
-
         velocity = new Vector3(0, yVel, 0);
+        //Debug.Log(velocity);
         this.transform.position += velocity * Time.deltaTime;
     }
 
@@ -106,5 +111,39 @@ public class PlayerControl : MonoBehaviour
         CurrMoves.right = Input.GetKey(KeyCode.D);
         CurrMoves.jump = Input.GetKey(KeyCode.Space) | Input.GetKey(KeyCode.W);
 
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("platform") && isJumping)
+        {
+            isJumping = false;
+            canJump = true;
+            yVel = 0;
+            //transform.parent = other.gameObject.transform;
+            isTouchingGround = true;
+        }
+        if (other.gameObject.CompareTag("platform") && !isJumping)
+        {
+            isJumping = false;
+            canJump = true;
+            yVel = 0;
+            isTouchingGround = true;
+        }
+
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("platform"))
+        {
+            //transform.parent = null;
+            isTouchingGround = false;
+        }
+    }
+
+    private void OnDrawGizmos()
+    {
+        
     }
 }
