@@ -6,6 +6,7 @@ TagManager:
   tags:
   - platform
   - PlatformWaterfall
+  - ground
   layers:
   - Default
   - TransparentFX

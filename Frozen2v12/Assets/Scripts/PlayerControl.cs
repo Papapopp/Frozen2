@@ -72,7 +72,7 @@ public class PlayerControl : MonoBehaviour
     private void ApplyVertMovement()
     {
         //Checks if the player can jump and if the player is hitting the jump button
-        if (CurrMoves.jump & canJump)
+        if (CurrMoves.jump && canJump)
         {
             yVel += jumpVel;
             currentHang = hangtime;
@@ -115,16 +115,16 @@ public class PlayerControl : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.CompareTag("platform") && isJumping)
+        if (other.gameObject.CompareTag("platform"))
         {
             isJumping = false;
             canJump = true;
             yVel = 0;
-            //transform.parent = other.gameObject.transform;
+            transform.parent = other.gameObject.transform;
             isTouchingGround = true;
-        }
-        if (other.gameObject.CompareTag("platform") && !isJumping)
+        } else if (other.gameObject.CompareTag("ground"))
         {
+            Debug.Log("detected ground");
             isJumping = false;
             canJump = true;
             yVel = 0;
@@ -137,13 +137,9 @@ public class PlayerControl : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("platform"))
         {
-            //transform.parent = null;
+            transform.parent = null;
             isTouchingGround = false;
+            canJump = false;
         }
-    }
-
-    private void OnDrawGizmos()
-    {
-        
     }
 }
