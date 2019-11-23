@@ -1,0 +1,3559 @@
+fileFormatVersion: 2
+guid: 110f8184335f4a446a75922db69fb7e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1270086368853991212
+    second: romancingsaga3_monsters_sheet_0
+  - first:
+      213: -5806509720220316061
+    second: romancingsaga3_monsters_sheet_1
+  - first:
+      213: 1387781018359647385
+    second: romancingsaga3_monsters_sheet_2
+  - first:
+      213: -6148933300521910615
+    second: romancingsaga3_monsters_sheet_3
+  - first:
+      213: -8874752302692492723
+    second: romancingsaga3_monsters_sheet_4
+  - first:
+      213: -3519237625737057102
+    second: romancingsaga3_monsters_sheet_5
+  - first:
+      213: -7925464481406815536
+    second: romancingsaga3_monsters_sheet_6
+  - first:
+      213: 6662548671548298894
+    second: romancingsaga3_monsters_sheet_7
+  - first:
+      213: 823483917404606158
+    second: romancingsaga3_monsters_sheet_8
+  - first:
+      213: 4334948612808003014
+    second: romancingsaga3_monsters_sheet_9
+  - first:
+      213: -6383406057893199215
+    second: romancingsaga3_monsters_sheet_10
+  - first:
+      213: -6697292601023151550
+    second: romancingsaga3_monsters_sheet_11
+  - first:
+      213: -5454004270714189965
+    second: romancingsaga3_monsters_sheet_12
+  - first:
+      213: 4471729586447294678
+    second: romancingsaga3_monsters_sheet_13
+  - first:
+      213: -3957913375636200629
+    second: romancingsaga3_monsters_sheet_14
+  - first:
+      213: -8542502483170931072
+    second: romancingsaga3_monsters_sheet_15
+  - first:
+      213: 3361609658377801099
+    second: romancingsaga3_monsters_sheet_16
+  - first:
+      213: -8361715984935355907
+    second: romancingsaga3_monsters_sheet_17
+  - first:
+      213: 5181242433361654692
+    second: romancingsaga3_monsters_sheet_18
+  - first:
+      213: 3192734040145127545
+    second: romancingsaga3_monsters_sheet_19
+  - first:
+      213: 7732266402196798617
+    second: romancingsaga3_monsters_sheet_20
+  - first:
+      213: -2516167151760492291
+    second: romancingsaga3_monsters_sheet_21
+  - first:
+      213: -6275951436175122526
+    second: romancingsaga3_monsters_sheet_22
+  - first:
+      213: -214832826478494751
+    second: romancingsaga3_monsters_sheet_23
+  - first:
+      213: -5373968455595278329
+    second: romancingsaga3_monsters_sheet_24
+  - first:
+      213: 1680832760612239409
+    second: romancingsaga3_monsters_sheet_25
+  - first:
+      213: -7504556509995518755
+    second: romancingsaga3_monsters_sheet_26
+  - first:
+      213: -8191143833413829329
+    second: romancingsaga3_monsters_sheet_27
+  - first:
+      213: -1721357924325608889
+    second: romancingsaga3_monsters_sheet_28
+  - first:
+      213: 4240953425604276962
+    second: romancingsaga3_monsters_sheet_29
+  - first:
+      213: -7332403107983118936
+    second: romancingsaga3_monsters_sheet_30
+  - first:
+      213: -3600531149954087619
+    second: romancingsaga3_monsters_sheet_31
+  - first:
+      213: -7721589206284761455
+    second: romancingsaga3_monsters_sheet_32
+  - first:
+      213: 6444248707912588339
+    second: romancingsaga3_monsters_sheet_33
+  - first:
+      213: -2517193558516722731
+    second: romancingsaga3_monsters_sheet_34
+  - first:
+      213: 1691761569044209572
+    second: romancingsaga3_monsters_sheet_35
+  - first:
+      213: 8798210498671059229
+    second: romancingsaga3_monsters_sheet_36
+  - first:
+      213: -3765084432716303794
+    second: romancingsaga3_monsters_sheet_37
+  - first:
+      213: -6825092225568707486
+    second: romancingsaga3_monsters_sheet_38
+  - first:
+      213: -158997443869468191
+    second: romancingsaga3_monsters_sheet_39
+  - first:
+      213: 5049194831102896074
+    second: romancingsaga3_monsters_sheet_40
+  - first:
+      213: 5649759348496529563
+    second: romancingsaga3_monsters_sheet_41
+  - first:
+      213: -9073543621996746704
+    second: romancingsaga3_monsters_sheet_42
+  - first:
+      213: -4408797511880077392
+    second: romancingsaga3_monsters_sheet_43
+  - first:
+      213: 4566545314697639723
+    second: romancingsaga3_monsters_sheet_44
+  - first:
+      213: -457532966271874685
+    second: romancingsaga3_monsters_sheet_45
+  - first:
+      213: 5571412085927074420
+    second: romancingsaga3_monsters_sheet_46
+  - first:
+      213: -4760804289943577107
+    second: romancingsaga3_monsters_sheet_47
+  - first:
+      213: -3771723711226069159
+    second: romancingsaga3_monsters_sheet_48
+  - first:
+      213: -4959861799583543450
+    second: romancingsaga3_monsters_sheet_49
+  - first:
+      213: -7459265805702372424
+    second: romancingsaga3_monsters_sheet_50
+  - first:
+      213: 4541991510063672864
+    second: romancingsaga3_monsters_sheet_51
+  - first:
+      213: 4416955215600290993
+    second: romancingsaga3_monsters_sheet_52
+  - first:
+      213: -7802536998656878082
+    second: romancingsaga3_monsters_sheet_53
+  - first:
+      213: -2811890942367808363
+    second: romancingsaga3_monsters_sheet_54
+  - first:
+      213: 7845008686638848316
+    second: romancingsaga3_monsters_sheet_55
+  - first:
+      213: -8371290013794027725
+    second: romancingsaga3_monsters_sheet_56
+  - first:
+      213: -5984345383636100377
+    second: romancingsaga3_monsters_sheet_57
+  - first:
+      213: 1620518036570765791
+    second: romancingsaga3_monsters_sheet_58
+  - first:
+      213: -3688451103174807300
+    second: romancingsaga3_monsters_sheet_59
+  - first:
+      213: -8709142419841981764
+    second: romancingsaga3_monsters_sheet_60
+  - first:
+      213: 3725945823682824565
+    second: romancingsaga3_monsters_sheet_61
+  - first:
+      213: -7659802907229004645
+    second: romancingsaga3_monsters_sheet_62
+  - first:
+      213: 4270520429509530345
+    second: romancingsaga3_monsters_sheet_63
+  - first:
+      213: 1989396229773522283
+    second: romancingsaga3_monsters_sheet_64
+  - first:
+      213: -7931507652868880417
+    second: romancingsaga3_monsters_sheet_65
+  - first:
+      213: -7850472634956446655
+    second: romancingsaga3_monsters_sheet_66
+  - first:
+      213: -715888753518614610
+    second: romancingsaga3_monsters_sheet_67
+  - first:
+      213: 6477977598870094667
+    second: romancingsaga3_monsters_sheet_68
+  - first:
+      213: 6093268971176412136
+    second: romancingsaga3_monsters_sheet_69
+  - first:
+      213: 4516159736639765109
+    second: romancingsaga3_monsters_sheet_70
+  - first:
+      213: -3266103787943293539
+    second: romancingsaga3_monsters_sheet_71
+  - first:
+      213: -6107440389527101964
+    second: romancingsaga3_monsters_sheet_72
+  - first:
+      213: -4917623319320343185
+    second: romancingsaga3_monsters_sheet_73
+  - first:
+      213: 4225671800206036500
+    second: romancingsaga3_monsters_sheet_74
+  - first:
+      213: -2785391520112263979
+    second: romancingsaga3_monsters_sheet_75
+  - first:
+      213: 8482677791899571877
+    second: romancingsaga3_monsters_sheet_76
+  - first:
+      213: 6654312868047543541
+    second: romancingsaga3_monsters_sheet_77
+  - first:
+      213: 6635137623939040137
+    second: romancingsaga3_monsters_sheet_78
+  - first:
+      213: 77215224440466535
+    second: romancingsaga3_monsters_sheet_79
+  - first:
+      213: -4673566185394962389
+    second: romancingsaga3_monsters_sheet_80
+  - first:
+      213: 3784964064935342106
+    second: romancingsaga3_monsters_sheet_81
+  - first:
+      213: 6309897166282969920
+    second: romancingsaga3_monsters_sheet_82
+  - first:
+      213: -7891702359359039348
+    second: romancingsaga3_monsters_sheet_83
+  - first:
+      213: 866085960679924780
+    second: romancingsaga3_monsters_sheet_84
+  - first:
+      213: 650909448264739637
+    second: romancingsaga3_monsters_sheet_85
+  - first:
+      213: 6564123790411396246
+    second: romancingsaga3_monsters_sheet_86
+  - first:
+      213: -2810401758338912561
+    second: romancingsaga3_monsters_sheet_87
+  - first:
+      213: 4895637832778292243
+    second: romancingsaga3_monsters_sheet_88
+  - first:
+      213: 994633796715469902
+    second: romancingsaga3_monsters_sheet_89
+  - first:
+      213: 5644626238024344560
+    second: romancingsaga3_monsters_sheet_90
+  - first:
+      213: 6768032802983148514
+    second: romancingsaga3_monsters_sheet_91
+  - first:
+      213: -1668050963749175812
+    second: romancingsaga3_monsters_sheet_92
+  - first:
+      213: -2340975421272916497
+    second: romancingsaga3_monsters_sheet_93
+  - first:
+      213: 8692497358308217989
+    second: romancingsaga3_monsters_sheet_94
+  - first:
+      213: 8041942621644358172
+    second: romancingsaga3_monsters_sheet_95
+  - first:
+      213: 8888959723404283618
+    second: romancingsaga3_monsters_sheet_96
+  - first:
+      213: 5709136631516686557
+    second: romancingsaga3_monsters_sheet_97
+  - first:
+      213: -1072570942494782134
+    second: romancingsaga3_monsters_sheet_98
+  - first:
+      213: -1241689086570002635
+    second: romancingsaga3_monsters_sheet_99
+  - first:
+      213: 8109408997405295949
+    second: romancingsaga3_monsters_sheet_100
+  - first:
+      213: -554082590969522944
+    second: romancingsaga3_monsters_sheet_101
+  - first:
+      213: 882411912759964173
+    second: romancingsaga3_monsters_sheet_102
+  - first:
+      213: 7903304983120455509
+    second: romancingsaga3_monsters_sheet_103
+  - first:
+      213: -1098525288892208140
+    second: romancingsaga3_monsters_sheet_104
+  - first:
+      213: -7242464201194730038
+    second: romancingsaga3_monsters_sheet_105
+  - first:
+      213: 4758307475678052653
+    second: romancingsaga3_monsters_sheet_106
+  - first:
+      213: 761479940582445672
+    second: romancingsaga3_monsters_sheet_107
+  - first:
+      213: -4243873746358173590
+    second: romancingsaga3_monsters_sheet_108
+  - first:
+      213: -1726281627507307821
+    second: romancingsaga3_monsters_sheet_109
+  - first:
+      213: 6923801849383152929
+    second: romancingsaga3_monsters_sheet_110
+  - first:
+      213: 7066493621038714242
+    second: romancingsaga3_monsters_sheet_111
+  - first:
+      213: 4891074567107932651
+    second: romancingsaga3_monsters_sheet_112
+  - first:
+      213: 839713428923635824
+    second: romancingsaga3_monsters_sheet_113
+  - first:
+      213: -3615749859155461005
+    second: romancingsaga3_monsters_sheet_114
+  - first:
+      213: -8777301197584759731
+    second: romancingsaga3_monsters_sheet_115
+  - first:
+      213: -834122118719879664
+    second: romancingsaga3_monsters_sheet_116
+  - first:
+      213: 2789233350043760526
+    second: romancingsaga3_monsters_sheet_117
+  - first:
+      213: 7300284417694306102
+    second: romancingsaga3_monsters_sheet_118
+  - first:
+      213: -7044723743596390001
+    second: romancingsaga3_monsters_sheet_119
+  - first:
+      213: -5743731550117931037
+    second: romancingsaga3_monsters_sheet_120
+  - first:
+      213: -4433745756961996118
+    second: romancingsaga3_monsters_sheet_121
+  - first:
+      213: 6209763881439448248
+    second: romancingsaga3_monsters_sheet_122
+  - first:
+      213: -3996519111428199604
+    second: romancingsaga3_monsters_sheet_123
+  - first:
+      213: 7394387487357983757
+    second: romancingsaga3_monsters_sheet_124
+  - first:
+      213: 5636165666556516897
+    second: romancingsaga3_monsters_sheet_125
+  - first:
+      213: 7514631467787661905
+    second: romancingsaga3_monsters_sheet_126
+  - first:
+      213: -2896203119477197012
+    second: romancingsaga3_monsters_sheet_127
+  - first:
+      213: 3069838590127765563
+    second: romancingsaga3_monsters_sheet_128
+  - first:
+      213: 4434845608735190049
+    second: romancingsaga3_monsters_sheet_129
+  - first:
+      213: -86837807551852188
+    second: romancingsaga3_monsters_sheet_130
+  - first:
+      213: 8654529551331892089
+    second: romancingsaga3_monsters_sheet_131
+  - first:
+      213: -3647623146222734562
+    second: romancingsaga3_monsters_sheet_132
+  - first:
+      213: 7557607042565175061
+    second: romancingsaga3_monsters_sheet_133
+  - first:
+      213: -3396890672539301287
+    second: romancingsaga3_monsters_sheet_134
+  - first:
+      213: 3451225440179494534
+    second: romancingsaga3_monsters_sheet_135
+  - first:
+      213: -5599016624173018266
+    second: romancingsaga3_monsters_sheet_136
+  - first:
+      213: 4675689434937956815
+    second: romancingsaga3_monsters_sheet_137
+  - first:
+      213: 6616824103241309386
+    second: romancingsaga3_monsters_sheet_138
+  - first:
+      213: -8671918937503972020
+    second: romancingsaga3_monsters_sheet_139
+  - first:
+      213: -761468338863507407
+    second: romancingsaga3_monsters_sheet_140
+  - first:
+      213: 3781097318449402402
+    second: romancingsaga3_monsters_sheet_141
+  - first:
+      213: -8444082216157507239
+    second: romancingsaga3_monsters_sheet_142
+  - first:
+      213: -6698207380857635679
+    second: romancingsaga3_monsters_sheet_143
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 445
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dc2f0f5959040448ab366df1995b7d
+      internalID: 1270086368853991212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 445
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831fab915b5f858478e1cba708a4a201
+      internalID: -5806509720220316061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 445
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e1315660eda50438d9dea738cfdb2a
+      internalID: 1387781018359647385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 445
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e64f24c0329d3549bb8d5626e2a7e35
+      internalID: -6148933300521910615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 445
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1832fb0de123bcd4eaee680d97eac602
+      internalID: -8874752302692492723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 445
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d38c8113b31b24380cd58d9dd3a3e1
+      internalID: -3519237625737057102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 445
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6847a999dfab46d4b89dc9a9f9927868
+      internalID: -7925464481406815536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 445
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e23ec6faadd4a449b703a07a2b1883c
+      internalID: 6662548671548298894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 445
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b42df4f2e4427346bd960cda9f661ea
+      internalID: 823483917404606158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 445
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ae076947ca68041bab4de57cc5617f
+      internalID: 4334948612808003014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 445
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c205753fe59e644a084436599fdc61
+      internalID: -6383406057893199215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 445
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414bae4c3d01304479700a39834381c0
+      internalID: -6697292601023151550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 406
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e882aed6e2f0e48beacef31ad9cae7
+      internalID: -5454004270714189965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 405
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13d40b4dff1060439ae247ceb269e7f
+      internalID: 4471729586447294678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 405
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351e35964a9a79f4b8de27f176c34b91
+      internalID: -3957913375636200629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 405
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a27d5b745eeab946a7bb13169a3d023
+      internalID: -8542502483170931072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 406
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f9fc7cddde18f4aaf4dcdf4a0d99c9
+      internalID: 3361609658377801099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 406
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea9321b1db16714b88845ab325c30da
+      internalID: -8361715984935355907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 405
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b562db4ac852c084ca227eda5ab9fe8f
+      internalID: 5181242433361654692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 405
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec938dad3d4b0b8419f7b59fef866a8b
+      internalID: 3192734040145127545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930553a3dbe7ad844b02c08889aa9ece
+      internalID: 7732266402196798617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1d166d09c4b124ea94798e9a0b0de3
+      internalID: -2516167151760492291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 406
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b846cd83dee9d474d9d0ccb2563d9f9e
+      internalID: -6275951436175122526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 406
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b073c9f0992c1647923fa8a60f38afa
+      internalID: -214832826478494751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 365
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6ea351df1d5614685f76284c5457fc
+      internalID: -5373968455595278329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 367
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f10172308a3244d96b705ede249be0
+      internalID: 1680832760612239409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 367
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317cb2d5c8f927c47a92be821c27fb26
+      internalID: -7504556509995518755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 367
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f41e0ff0661dc44b2711a28f0e1315
+      internalID: -8191143833413829329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 365
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676a80dc682fa064d8196e6c1bb39078
+      internalID: -1721357924325608889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 365
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906d432fbd62ae54a921c64147e17252
+      internalID: 4240953425604276962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 367
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f643a6f13665b14a87c8a08bc4f3314
+      internalID: -7332403107983118936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 367
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9385ae417c5814ebd0ad35c3870d32
+      internalID: -3600531149954087619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 367
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a6a057b3b85694189899518ccadef1
+      internalID: -7721589206284761455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 367
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325d9d070d7ba3e458aa07ed42055e06
+      internalID: 6444248707912588339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 367
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68444c7fc5ea8074e80dc20ba17277b4
+      internalID: -2517193558516722731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 367
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afd46f05b5bb8648ba2e3c384b0efbb
+      internalID: 1691761569044209572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e450025e615b9541ba4d1a69bd3d332
+      internalID: 8798210498671059229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 329
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79234cca9e37004399d5f33cc9cf271
+      internalID: -3765084432716303794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 331
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1990062b3de861646953598c2421b76d
+      internalID: -6825092225568707486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 331
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0dce48c87f3ff48a2c6973f5b39a35
+      internalID: -158997443869468191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 327
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc422dc94551574296a312e2bf70d8d
+      internalID: 5049194831102896074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 327
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54277c0e41df3a4982064377c2498b3
+      internalID: 5649759348496529563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 327
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a8e0ee3bfdc374d986176629fcdf41
+      internalID: -9073543621996746704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 327
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdfc530e1868e446aaa0dd3bad5ae15
+      internalID: -4408797511880077392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 328
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b243526c53a35974fa5b02ccf6b78e9e
+      internalID: 4566545314697639723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 328
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898fa6c481408dd4c807e492c01e125a
+      internalID: -457532966271874685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 327
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0ed4649292c3a428681af71399ebe8
+      internalID: 5571412085927074420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 327
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64918492f8342094098752824c2a00d8
+      internalID: -4760804289943577107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 291
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b068471df9b6064fbcd08a19f515fe9
+      internalID: -3771723711226069159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 289
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57501f7aa3a9c7942b641ff589974b25
+      internalID: -4959861799583543450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 292
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37964971ed151e64bab9a1cb102f68a7
+      internalID: -7459265805702372424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 292
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfa125d804f93943b1df4c7a31811c0
+      internalID: 4541991510063672864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 290
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eb3aaa04d74554a8664d136e8e8fc5
+      internalID: 4416955215600290993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 290
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e9c29694b1a0d4fae766b3ce84fa4a
+      internalID: -7802536998656878082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 290
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aeb4ae0ea6e5f47a4640b56c3f8f87
+      internalID: -2811890942367808363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 290
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefe0e654c055dd4da3a472b8d75af6e
+      internalID: 7845008686638848316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 292
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb10af8e6fac5844da66c1f1a3515cce
+      internalID: -8371290013794027725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 292
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09174507de0201245b9b019b72185d97
+      internalID: -5984345383636100377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 291
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e29b8bbae8b69048ab8a491f05af71c
+      internalID: 1620518036570765791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 291
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea28be33b40ea97489518f4cc88d3070
+      internalID: -3688451103174807300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 251
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cebe0056e86fb49af25619e790d166
+      internalID: -8709142419841981764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 250
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8410011b02b5adf41b65eac21e762815
+      internalID: 3725945823682824565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 249
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531e626b3e0053845aa36a607d10100c
+      internalID: -7659802907229004645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 249
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33fa53689dd91649b7e9a2e60146b02
+      internalID: 4270520429509530345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 248
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29afcdd11d50cba4f9ea0e5f9628d189
+      internalID: 1989396229773522283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 245
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3de4681b9c0d144aa9ce844519bd029
+      internalID: -7931507652868880417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 246
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aa3421849d375458db544464e99cc9
+      internalID: -7850472634956446655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 245
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f76af65d08c77a49bafa585d5040e53
+      internalID: -715888753518614610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 249
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621dece23cf6a4946a1b401e53659870
+      internalID: 6477977598870094667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 249
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d1c14534779334c8450e4e170ffdc7
+      internalID: 6093268971176412136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 246
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65a76695af59784c96cb5486ad8136c
+      internalID: 4516159736639765109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 246
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b496286459832734db81638ac8112c48
+      internalID: -3266103787943293539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 209
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61a5d4af61daa54d8741cf2346f4b6e
+      internalID: -6107440389527101964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 208
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e664d21049214e43a9d7e4ce6d66e95
+      internalID: -4917623319320343185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 208
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e31e43c9aec0f4c91fa323656318c4
+      internalID: 4225671800206036500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 208
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e52364c14a09ed4b8bf82729c13c791
+      internalID: -2785391520112263979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 208
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd9804a9d2297947a492a3338a6bdc3
+      internalID: 8482677791899571877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 208
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d54cd254a1ece447a3eecb1959ae1fc
+      internalID: 6654312868047543541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 208
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f501a03036b268d4692dd49b209a9430
+      internalID: 6635137623939040137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 208
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f004693b207514eaeba97662169cb1
+      internalID: 77215224440466535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 207
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea07fc8feb80274480c6c0ccde45a8d
+      internalID: -4673566185394962389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 207
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e74284abe1630945b2a79f55b207b93
+      internalID: 3784964064935342106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 208
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8662d1708c23d47a3a38096f44d0c4
+      internalID: 6309897166282969920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 208
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ff17547c2be93498a56bf6b5a380ab
+      internalID: -7891702359359039348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 172
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb13b65562c4aad4491972c419e2307c
+      internalID: 866085960679924780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 172
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545a3294830dbe94399595240f76ebfc
+      internalID: 650909448264739637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 172
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d429f715fa4b7f44fab9bfd9539172af
+      internalID: 6564123790411396246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 172
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba4d8092aa4b4947a2aabe7d4bfa554
+      internalID: -2810401758338912561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 171
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4aa567e6df9fa4583eb6952afb7e6a
+      internalID: 4895637832778292243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 171
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52d5e56d6b5add40a347ef46e2d7f6d
+      internalID: 994633796715469902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 170
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79897f708bdd8084ba532f69cc596f89
+      internalID: 5644626238024344560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 170
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8846ce142e393c641b251387bcc613e1
+      internalID: 6768032802983148514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 172
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0ac3f9130c7dd4397ddc5423aaa590
+      internalID: -1668050963749175812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 172
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d241d6b0f3203e4f86f1213ba195fc1
+      internalID: -2340975421272916497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 172
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fe4254a4aa0424e961c0ee03abdbf1
+      internalID: 8692497358308217989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 172
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb74ecd9fb2d2241b1c084d4cd0ec92
+      internalID: 8041942621644358172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 126
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaac0ec9ea67974390a6f16da58220a
+      internalID: 8888959723404283618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 126
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674cfaa2dd1c8404fa4d1ed4449ecdd6
+      internalID: 5709136631516686557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 128
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acb7685c7175504998d64ce4d162e66
+      internalID: -1072570942494782134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 128
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3036c44ff47f8af4d90f9ad665c81b50
+      internalID: -1241689086570002635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 126
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726cbeac03e612943950041e0b27c7af
+      internalID: 8109408997405295949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 126
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c01e5977f72e84b970d0ccdf21f68f
+      internalID: -554082590969522944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 126
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b6e74ce48d86f4bbcb2a851da04e1f
+      internalID: 882411912759964173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 126
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc12fe7d48d633649a1c6c92a6c36dbb
+      internalID: 7903304983120455509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 129
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bcb38f503997641a80661c287130ec
+      internalID: -1098525288892208140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 129
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1ae16a9151d8040aa4db648d03a149
+      internalID: -7242464201194730038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 128
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97049c00096b5e54aba18e3f9cf07bc7
+      internalID: 4758307475678052653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 128
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5352fd4e81d854596cbbf13c8d514e
+      internalID: 761479940582445672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4b3dd8222b612448edd71d80bc2044
+      internalID: -4243873746358173590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 86
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8848f9294dddc8b4aa8978ea932099b3
+      internalID: -1726281627507307821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 87
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00a4b5a6ae85af498a6db2be2c57e70
+      internalID: 6923801849383152929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 87
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8802824e06ac57642a571e3c79590115
+      internalID: 7066493621038714242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 87
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9308fc13c0dee0f4082559f0aef04aae
+      internalID: 4891074567107932651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 87
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed00529ffcecf624ab1ba5f4a5b8b41a
+      internalID: 839713428923635824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 86
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86da9fa8c825684c8e43403b5c8ed39
+      internalID: -3615749859155461005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 87
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa88b8cf197af7547912c755dcaab976
+      internalID: -8777301197584759731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 88
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fb2733376f7ca4bbfceb3b2896977b
+      internalID: -834122118719879664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 88
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddb7266d25c81d4f87faf8fa4fe46f5
+      internalID: 2789233350043760526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 88
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445a00b13ea09cf4a9032011bf642847
+      internalID: 7300284417694306102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 88
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879368a738abda74da5344cf2376d50c
+      internalID: -7044723743596390001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde3d3b48182a964b93687fda9c9d67c
+      internalID: -5743731550117931037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 43
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e5c5cbb7a50954e91b42b8ef2d6610
+      internalID: -4433745756961996118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 43
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36dec6d88bfbf1408de481e10b56aed
+      internalID: 6209763881439448248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 43
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e2bc1ebf7e86b46882eda61f5d348b
+      internalID: -3996519111428199604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 43
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7e39f87596398409625179408e0a9a
+      internalID: 7394387487357983757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 43
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f6c5553f7948346960482795007918
+      internalID: 5636165666556516897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 42
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ac5d8e661b4504da937fc25f414bdb
+      internalID: 7514631467787661905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 42
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18ee9a8978ce9f49b39bef072a9ef7c
+      internalID: -2896203119477197012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 43
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb710633a025e69468cbd6900cfcd693
+      internalID: 3069838590127765563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 43
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f696b9faf5bab74fb4b39a9836594de
+      internalID: 4434845608735190049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 43
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bde39e94b369cd4babbf639b8549664
+      internalID: -86837807551852188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 43
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b61a6aa9ae91c4a944458a05cb4ccf
+      internalID: 8654529551331892089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b858dd28abc6ae4fa19e43cc03b6677
+      internalID: -3647623146222734562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc0635c8b45d7147964b0964b5543d9
+      internalID: 7557607042565175061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb48e11eb57054a49a9e41ef33d83a7c
+      internalID: -3396890672539301287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 3
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78038e854405ecd45b72d7a1bd9a909f
+      internalID: 3451225440179494534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe3ed7553ab93d44a6deee120d753ea
+      internalID: -5599016624173018266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc8652dd2195264596ecd402fda984f
+      internalID: 4675689434937956815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d69b8cc68f999c418e17d52f338d5df
+      internalID: 6616824103241309386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3479340aaa3f08b4994e0d035075b541
+      internalID: -8671918937503972020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98d3f33db9c3274db73369d3247af40
+      internalID: -761468338863507407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 3
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647368f6e28100640a079ecfc3b77117
+      internalID: 3781097318449402402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a6188909f9ac94fb7bb7a47b377cef
+      internalID: -8444082216157507239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: romancingsaga3_monsters_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d78cf10e260f3749b5f1bb4982fccf9
+      internalID: -6698207380857635679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1edc4bc67088c7a409fa442a9cee7b2f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

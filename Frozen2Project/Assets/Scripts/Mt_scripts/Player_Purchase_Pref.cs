@@ -68,4 +68,17 @@ public class Player_Purchase_Pref : MonoBehaviour
         }
         return false;
     }
+
+    public bool isPurchased(int ID)
+    {
+        if(PlayerPrefs.HasKey("store" + ID))
+        {
+            if (PlayerPrefs.GetInt("store" + ID) == 1)
+            {
+                return true;
+            }
+        }
+        return false;
+    }
+
 }
