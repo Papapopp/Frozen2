@@ -9,6 +9,7 @@ public class PlatformFalling : MonoBehaviour
     public Transform startPos;
     public bool isFrozen;
 
+    PlatformWaterfall myParent;
     Vector3 nextPos;//move to this endpoint
 
 
@@ -18,7 +19,7 @@ public class PlatformFalling : MonoBehaviour
         Debug.Log(speed);
         nextPos = startPos.position;
         if (transform.parent.gameObject.CompareTag("PlatformWaterfall")) {
-            PlatformWaterfall myParent = GetComponentInParent<PlatformWaterfall>();
+            myParent = GetComponentInParent<PlatformWaterfall>();
             speed = myParent.speed;
         }
         Debug.Log(speed);
@@ -27,6 +28,11 @@ public class PlatformFalling : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (transform.parent.gameObject.CompareTag("PlatformWaterfall"))
+        {
+            myParent = GetComponentInParent<PlatformWaterfall>();
+            isFrozen = myParent.isFrozen;
+        }
         if (transform.position == pos1.position)
         {
             //at endpoint set next end point
