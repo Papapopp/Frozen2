@@ -79,9 +79,9 @@ public class PlayerControl : MonoBehaviour
         }
 
         //If the player is jumping, then check if they are pressing jump to hang or not
+        float yChange = Mathf.Pow(Time.deltaTime * gravity, 2);
         if (isJumping)
         {
-            float yChange = Mathf.Pow(Time.deltaTime * gravity, 2);
             if (Mathf.Abs(yVel) < 0.25 && currentHang > 0 && CurrMoves.jump)
             {
                 currentHang -= Time.deltaTime;
@@ -90,6 +90,10 @@ public class PlayerControl : MonoBehaviour
             {
                 yVel -= yChange;
             }
+        }
+        else
+        {
+            yVel -= yChange;
         }
 
         velocity = new Vector3(0, yVel, 0);
